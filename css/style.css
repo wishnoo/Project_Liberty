@@ -43,7 +43,8 @@ header li{
 
 header #branding{
     float: left;
-    width: 80%;
+	width: 80%;
+	padding-left: 5%;
 }
 
 header #branding h1, h2{
@@ -52,7 +53,8 @@ header #branding h1, h2{
 
 header #logo{
     float: right;
-    width: 10%;
+	width: 10%;
+	margin-top: 10px;
 }
 
 header #logo img{
